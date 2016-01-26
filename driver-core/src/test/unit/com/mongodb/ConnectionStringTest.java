@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.mongodb.client;
+package com.mongodb;
 
 import com.mongodb.AuthenticationMechanism;
 import com.mongodb.ConnectionString;
